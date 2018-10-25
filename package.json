@@ -1,0 +1,21 @@
+{
+  "name": "insomnia-plugin-base64-file",
+  "description": "Base64 encode a file",
+  "version": "1.0.0",
+  "author": {
+    "name": "Joe Tyson",
+    "url": "https://github.com/joetyson"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joetyson/insomnia-plugin-base64-file"
+  },
+  "main": "index.js",
+  "insomnia": {
+    "name": "base64file",
+    "description": "Encodes a file with base64"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {}
+}
