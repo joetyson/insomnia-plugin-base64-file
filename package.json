@@ -15,7 +15,6 @@
     "name": "base64file",
     "description": "Encodes a file with base64"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {}
 }
