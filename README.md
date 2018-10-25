@@ -1,4 +1,4 @@
-# Insomnia Base64 File Encoded
+# Insomnia Base64 File Encoder
 
 This is a plugin for [Insomnia](https://insomnia.rest/) that allows encoding
 a file with base64.
